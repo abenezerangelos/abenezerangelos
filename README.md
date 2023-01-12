@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abenezerangelos
+- 👋 Hi, I’m abenezerangelos
 - 👀 I’m interested in software development and anything related to programming
 - 🌱 I’m currently learning advanced Data structures and algorithms in Python
 
